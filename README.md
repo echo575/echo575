@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ella 
-- 🌱 I’m a sophmore
+- 🌱 I’m a sophomore
 - 📫 Email: echo575@students.fairmontschools.com 
 
 <!---
